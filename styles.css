@@ -1,0 +1,42 @@
+html {
+    font-size: 20px;
+}
+body{
+    background-color: #333;
+    color: whitesmoke;
+    
+}
+h1 {
+    color: rgb(220, 143, 226);
+}
+h2{
+    color: lightsalmon;
+    text-align: left;
+}
+h3{
+    color: lightseagreen;
+}
+
+hr{
+    color: aquamarine;
+    height: 0.5px;
+    background-color: darkblue;
+}
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: lightgray;
+}
+a:hover, a:active{
+    color: #eee;
+}
+mark{
+    background-color: #ffffff
+}
+table, th, td, tr, caption{
+    border: 0.5px solid #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
